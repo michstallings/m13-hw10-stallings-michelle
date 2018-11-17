@@ -1,16 +1,16 @@
 //JavaScript Functionalit Part 1 Goes Here. Comment it all out once finsihed.
-var section = document.getElementsByTagName("section")[0];
+//var section = document.getElementsByTagName("section")[0];
 
-var button = document.getElementsByTagName("button")[0];
+//var button = document.getElementsByTagName("button")[0];
 
 
-function slideToggle() {
+//function slideToggle() {
  
-   section.classList.toggle("hide");
+   //section.classList.toggle("hide");
 
-};
+//};
 
-button.addEventListener('click', slideToggle);
+//button.addEventListener('click', slideToggle);
 
 
 
